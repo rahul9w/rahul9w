@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Rahul Choudhary 👋
 
-<!--
-**rahul9w/rahul9w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning React, MongoDb
+- 👯 I’m looking for full stack developer job
+- 💬 I'm open to opportunities in the field of Web Development
+- 😄 Pronouns: He/his
+- ⚡ Fun fact: I :heart: :dog:s
+- 📫 How to reach me:  <a href="mailto:rahul9w6e@yahoo.com">  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
